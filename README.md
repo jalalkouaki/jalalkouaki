@@ -21,10 +21,10 @@
   </picture>
 </p>
 
-<!-- studio:split w=60.70 -->
+<!-- studio:split w=a.a -->
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
 
 ### About me
 Second-year Business & Marketing student with retail experience and self-taught programming and data analytics skills. Completed a retail operations internship at  Aswak Assalam  (August 2025), using store software to generate price tags, maintain accurate shelf pricing, and support aisle reorganizations that streamlined restocking. Built independent software projects, including an EOQ-based supply chain cost optimizer, a custom Python interpreter, and an offline database verification tool. Fluent in English (EF SET C2 certified), Arabic, and French, with intermediate Spanish and Persian. 
@@ -35,12 +35,17 @@ email: jalalkouaki@outlook.com
 
 <img src="https://raw.githubusercontent.com/jalalkouaki/jalalkouaki/main/profile-assets/spacer.svg" width="854" height="1" alt="" />
 </td>
-    <td width="70%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jalalkouaki/jalalkouaki/main/profile-assets/card-stats-dark.svg?show_icons=true" />
-        <img src="https://raw.githubusercontent.com/jalalkouaki/jalalkouaki/main/profile-assets/card-stats-light.svg?show_icons=true" alt="GitHub stats" width="100%" />
-      </picture>
-    </td>
+    <td width="50%" valign="top">
+
+links
+
+Portfolio: https://jalalkouaki.co/
+
+email: jalalkouaki@outlook.com
+
+credly: https://www.credly.com/users/jalal-kouaki
+
+</td>
   </tr>
 </table>
 
