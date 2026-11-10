@@ -49,6 +49,11 @@ credly: https://www.credly.com/users/jalal-kouaki
   </tr>
 </table>
 
+<!-- studio:visitor -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jalalkouaki&label=Profile%20views&color=2ea043&style=flat" alt="Profile views" />
+</p>
+
 <!-- studio:divider -->
 <img src="https://raw.githubusercontent.com/jalalkouaki/jalalkouaki/main/profile-assets/divider-rainbow.svg" alt="" width="100%" />
 
@@ -115,21 +120,5 @@ credly: https://www.credly.com/users/jalal-kouaki
   </picture></a>
 </p>
 
-<!-- studio:details -->
-<details>
-<summary><b>More about me</b></summary>
-
-- 🌍 Remote, happy to work across time zones
-- 📖 Currently reading *Designing Data-Intensive Applications*
-- ☕ Fuelled by filter coffee and good code review
-
-</details>
-
-<!-- studio:socials -->
-<h2 align="center">links</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/j"><img src="https://raw.githubusercontent.com/jalalkouaki/jalalkouaki/main/profile-assets/badge-linkedin-flat-square.svg?style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://jrdn.org"><img src="https://raw.githubusercontent.com/jalalkouaki/jalalkouaki/main/profile-assets/badge-website-flat-square.svg?style=flat-square" alt="Website" /></a>
-  <a href="mailto:j@example.com"><img src="https://raw.githubusercontent.com/jalalkouaki/jalalkouaki/main/profile-assets/badge-email-flat-square.svg?style=flat-square" alt="Email" /></a>
-</p>
+<!-- studio:quote -->
+<p align="center"><i>you can reset your mind,it's like light after dark</i><br /><sub>The Weeknd</sub></p>
